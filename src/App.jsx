@@ -3,9 +3,9 @@ function App() {
   
 
   return (
-    <>
+    <div className="scene">
       
-    </>
+    </div>
   )
 }
 
